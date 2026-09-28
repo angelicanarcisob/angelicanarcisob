@@ -89,6 +89,33 @@ Projetos desenvolvidos durante meus estudos de desenvolvimento Web.
 🗄️ Banco de Dados
 ☁️ SAP HANA
 ```
+---
+## 🚀 O que estou desenvolvendo
+
+<div align="center">
+
+🐍 **Python**
+  
+Desenvolvimento e automação
+
+🌐 **Full Stack**
+  
+Criação de aplicações Web
+
+🗄️ **Banco de Dados**
+  
+SQL • PL/SQL • SAP HANA
+
+🏢 **SAP**
+  
+SAP Business One • HANA • S/4HANA
+
+🧪 **QA**
+  
+Testes e qualidade de software
+
+</div>
+
 
 ---
 
