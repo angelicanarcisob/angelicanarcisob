@@ -70,8 +70,8 @@ Projetos desenvolvidos durante meus estudos de desenvolvimento Web.
 
 * `Fullstack1`
 * `Turistico`
-* `docmeu`
-* `projeto-angel`
+* `python`
+* `perfil online`
 
 🔗 [Ver todos os projetos](https://github.com/angelicanarcisob?tab=repositories)
 
