@@ -96,9 +96,15 @@ Projetos desenvolvidos durante meus estudos de desenvolvimento Web.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=angelicanarcisob&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+### 🚀 Meus projetos
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicanarcisob&layout=compact&langs_count=8&theme=tokyonight"/>
+| 💻 Área | 🚀 Projetos |
+|---|---|
+| 🐍 Python | Flask, CRUD e automações |
+| 🌐 Web | HTML, CSS e projetos Full Stack |
+| 🗄️ Banco de Dados | SQL e integração com sistemas |
+| 🏢 SAP | SAP Business One e SAP HANA |
+| 🧪 QA | Estudos em testes e qualidade |
 
 </div>
 
