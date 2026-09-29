@@ -146,7 +146,7 @@ Continuar evoluindo como profissional de tecnologia, unindo minha experiência e
 
 [![GitHub](https://img.shields.io/badge/GitHub-angelicanarcisob-181717?style=for-the-badge\&logo=github)](https://github.com/angelicanarcisob)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angélica%20Resende-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelica-narciso-bicalho-resende-67b70bb4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angélica%20Bicalho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelica-narciso-bicalho-resende-67b70bb4/)
 
 ---
 
